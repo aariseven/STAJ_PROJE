@@ -24,4 +24,4 @@ Tanıma bölümünde ise eşleşen kayıt var ise yüz tespiti için haarcascade
 
 Projede transactions classında ise gerekli matris hesaplamaları yapılmaktadır.
 
-En son olarak windows user32.dll ve kernel32.dll kullanılarak kaydetme aşamasında klavye tuşlarını pasif edilir.Tam kontrol sağlanmış olur.
+En son olarak windows user32.dll ve kernel32.dll kullanılarak kaydetme aşamasında klavye tuşlarını pasif edilir ve kaydetme aşamasında tam kontrol sağlanmış olur.
