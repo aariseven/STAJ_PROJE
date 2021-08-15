@@ -22,5 +22,6 @@ Görüntünün etrafında ise timer kullanılarak arkaplan gri veya beyaz deği�
 
 Tanıma bölümünde ise eşleşen kayıt var ise yüz tespiti için haarcascade_frontalface_default.xml dosyası kullanılır.haarcascade_frontalface_default.xml dosyasından Image byteları aranarak bulunan yüzler döndürülür.Ve başlangıçta yakaladığımız binary görüntü üzerine yazılır.Tanıma sağlandığında otomatik kullanıcı ismi gelerek tekrar program sonlandılır.
 
-En son olarak windows user32.dll ve kernel32.dll kullanılarak kaydetme aşamasında klavye tuşlarını pasif edilir.Tam kontrol sağlanmış olur.
+Projede transactions classında ise gerekli matris hesaplamaları yapılmaktadır.
 
+En son olarak windows user32.dll ve kernel32.dll kullanılarak kaydetme aşamasında klavye tuşlarını pasif edilir.Tam kontrol sağlanmış olur.
