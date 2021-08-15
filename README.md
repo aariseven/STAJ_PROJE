@@ -1,2 +1,2 @@
 # Yüz Tanımlama Sistemi (Face Recognition)
-.NET ile Yüz Tanımlama sistemi ( EmguCV,OpenCV,Haarcascade )
+.NET ile Yüz Tanımlama sistemi (EmguCV,OpenCV,Haarcascade)
